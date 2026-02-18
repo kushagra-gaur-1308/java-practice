@@ -1,0 +1,5 @@
+Abstraction is basically use to hide the implementation of the code.
+ex-in the car we see the brakes,accelaration,clutch and use them to drive the car but normally we don't know how it is working in the engine.
+
+This line is newly added to Sample.txt.
+this is the second file in which we have some data and after this file we basically merging the txt file and rpinting the text.
